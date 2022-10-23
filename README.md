@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&theme=radical&count_private=true)
 
 #### These are some of my projects. Check them out!
 
