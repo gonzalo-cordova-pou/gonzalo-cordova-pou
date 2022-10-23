@@ -17,3 +17,10 @@
 - 🔭 I’m currently working at [Vinces Consulting](https://www.vincesconsulting.com/) as Data Scientist
 - 💬 Ask me about any of my projects or if you want collaborate
 
+#### Languages:
+![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=c++&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%23323330.svg?style=for-the-badge&logo=haskell&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/R-%23007ACC.svg?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=sql&logoColor=white)
