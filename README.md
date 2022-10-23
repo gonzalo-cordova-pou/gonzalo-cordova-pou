@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://github.com/gonzalo-cordova-pou/gonzalo-cordova-pou/blob/main/profile_pic.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi there 👋 Welcome to my GitHub profile!</h2>
 </p>
 <p align="center">
