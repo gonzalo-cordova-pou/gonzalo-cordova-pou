@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasGadea&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&theme=radical)
 
 <!--
 **gonzalo-cordova-pou/gonzalo-cordova-pou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
