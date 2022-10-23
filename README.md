@@ -25,7 +25,7 @@
 
 - [Machine Learning for Drawings :pencil2: Classification](https://github.com/gonzalo-cordova-pou/drawing2label): where I implement CNN, SVM and TSNE to return the word representing a drawing
 
-### 🛠 &nbsp; Some Tools I use:
+### 🛠 &nbsp; Some Tools I Use:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
