@@ -53,9 +53,12 @@
  <img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
  <img alt="Qlik" src="https://img.shields.io/badge/Qlik-%23107C10.svg?style=for-the-badge&logo=qlik&logoColor=white"/>
 
-
 ---
 #### Get in touch
 - 📫 How to reach me: gonzalocp6@gmail.com or [LinkedIn](https://www.linkedin.com/in/gonzalo-cordova-pou/)
 - 🔭 I’m currently working at [Vinces Consulting](https://www.vincesconsulting.com/) as Data Scientist
 - 💬 Ask me about any of my projects or if you want collaborate
+ 
+ 
+
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
