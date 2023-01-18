@@ -16,7 +16,7 @@
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+![Gonzalo Córdova GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&theme=vue-dark&count_private=true)
 
 #### These are some of my projects. Check them out!
 
