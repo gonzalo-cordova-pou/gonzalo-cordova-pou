@@ -20,6 +20,8 @@
 
 #### These are some of my projects. Check them out!
 
+- [Funx: a Python interpreter :snake:](https://github.com/gonzalo-cordova-pou/interpreter) Python interpreter based on expressions and functions. Both a web interface (Flask) and a command line interface are provided.
+
 - [TextMood: Sentiment classification](https://github.com/gonzalo-cordova-pou/TextMood) Sentiment classification task with deep neural networks using social networks data :computer:
 
 - [Big Data (Predictive Analysis)](https://github.com/gonzalo-cordova-pou/BDA_bigdata_project) Use of PySpark (RDD structure) to create different pipelines that read from PostgreSQL DB and CSV files to create a Decision Tree Classifier.
