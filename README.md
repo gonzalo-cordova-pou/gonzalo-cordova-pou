@@ -58,7 +58,9 @@
 ---
 #### Get in touch
 - 📫 How to reach me: gonzalocp6@gmail.com or [LinkedIn](https://www.linkedin.com/in/gonzalo-cordova-pou/)
-- 🔭 I’m currently working at [Vinces Consulting](https://www.vincesconsulting.com/) as Data Scientist
+- 🔭 I’m currently working at:
+   - Data Scientist and Researcher at [Vinces Consulting](https://www.vincesconsulting.com/)
+   - Research Scholar (Deep Learning) at [Virginia Commonwealth University - Engineering](https://egr.vcu.edu/)
 - 💬 Ask me about any of my projects or if you want collaborate
  
  
