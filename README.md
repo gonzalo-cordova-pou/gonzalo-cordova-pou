@@ -20,6 +20,8 @@
 
 #### These are some of my projects. Check them out!
 
+- [Distraction Detector :mag_right:](https://github.com/gonzalo-cordova-pou/interpreter) Identifying potential distractions within VR software. By integrating CNNs, OCR, and NLP, the proposed approach can accurately classify screenshots and extract features, facilitating the identification of distractions and enabling timely intervention.
+
 - [Funx: a Python interpreter :snake:](https://github.com/gonzalo-cordova-pou/interpreter) Python interpreter based on expressions and functions. Both a web interface (Flask) and a command line interface are provided.
 
 - [TextMood: Sentiment classification](https://github.com/gonzalo-cordova-pou/TextMood) Sentiment classification task with deep neural networks using social networks data :computer:
