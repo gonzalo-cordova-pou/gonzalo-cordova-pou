@@ -24,11 +24,14 @@
 
 - [Funx: a Python interpreter :snake:](https://github.com/gonzalo-cordova-pou/interpreter) Python interpreter based on expressions and functions. Both a web interface (Flask) and a command line interface are provided.
 
-- [TextMood: Sentiment classification](https://github.com/gonzalo-cordova-pou/TextMood) Sentiment classification task with deep neural networks using social networks data :computer:
+- [TextMood: Sentiment classification](https://github.com/gonzalo-cordova-pou/TextMood) Sentiment classification task with deep neural networks using social networks data. :computer:
+
+- [Energy Consumption Forecast 🔋](https://github.com/gonzalo-cordova-pou/EnergyConsumptionForecast): using XGBoost and Time Series analysis to forecast Energy Consumption.
 
 - [Big Data (Predictive Analysis)](https://github.com/gonzalo-cordova-pou/BDA_bigdata_project) Use of PySpark (RDD structure) to create different pipelines that read from PostgreSQL DB and CSV files to create a Decision Tree Classifier.
 
-- [Machine Learning for Drawings :pencil2: Classification](https://github.com/gonzalo-cordova-pou/drawing2label): where I implement CNN, SVM and TSNE to return the word representing a drawing
+- [Machine Learning for Drawings :pencil2: Classification](https://github.com/gonzalo-cordova-pou/drawing2label): where I implement CNN, SVM and TSNE to return the word representing a drawing.
+
 
 ### 🛠 &nbsp; Some Tools I Use:
 
