@@ -5,6 +5,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/gonzalo-cordova-pou"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:gonzalocp6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://scholar.google.es/citations?user=6GtgC44AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
 </p>
 </p>
 <p align="center">
