@@ -17,8 +17,6 @@
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
-![Gonzalo Córdova GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalo-cordova-pou&theme=vue-dark&count_private=true)
-
 #### These are some of my projects. Check them out!
 
 - [Distraction Detector :mag_right:](https://github.com/gonzalo-cordova-pou/MLADHD) Identifying potential distractions within VR software. By integrating CNNs, OCR, and NLP, the proposed approach can accurately classify screenshots and extract features, facilitating the identification of distractions and enabling timely intervention.
