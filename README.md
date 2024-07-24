@@ -18,6 +18,8 @@
 
 #### These are some of my projects. Check them out!
 
+- [Building RAGs with LangChain 🦜 - Work in Progress](https://github.com/gonzalo-cordova-pou/rag/tree/main) Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases.
+
 - [Distraction Detector :mag_right:](https://github.com/gonzalo-cordova-pou/MLADHD) Identifying potential distractions within VR software. By integrating CNNs, OCR, and NLP, the proposed approach can accurately classify screenshots and extract features, facilitating the identification of distractions and enabling timely intervention.
 
 - [Funx: a Python interpreter :snake:](https://github.com/gonzalo-cordova-pou/interpreter) Python interpreter based on expressions and functions. Both a web interface (Flask) and a command line interface are provided.
