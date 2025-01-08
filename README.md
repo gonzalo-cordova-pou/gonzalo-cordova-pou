@@ -18,6 +18,10 @@
 
 #### These are some of my projects. Check them out!
 
+- [ProductGenerator.AI](https://productgenerator.ai/): AI-powered platform that allows you to create high-quality, professional images of your products.
+
+<p align="center"><a href="https://productgenerator.ai/"><img src="https://github.com/user-attachments/assets/ad601b18-c127-4a63-a3e7-1156d48c3a0a" alt="ProductGenerator.AI" width="500"/></a></p>
+
 - [Building RAGs with LangChain 🦜 - Work in Progress](https://github.com/gonzalo-cordova-pou/rag/tree/main) Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases.
 
 - [Distraction Detector :mag_right:](https://github.com/gonzalo-cordova-pou/MLADHD) Identifying potential distractions within VR software. By integrating CNNs, OCR, and NLP, the proposed approach can accurately classify screenshots and extract features, facilitating the identification of distractions and enabling timely intervention.
