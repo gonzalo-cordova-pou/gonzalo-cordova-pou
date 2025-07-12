@@ -18,6 +18,8 @@
 
 #### These are some of my projects. Check them out!
 
+- [MCP Server for Food Delivery 🍔](https://github.com/gonzalo-cordova-pou/food_delivery_mcp): Local Model Context Protocol Server for a Food Delivery Application. Let an AI Agent order for you!
+
 - [ProductGenerator.AI](https://productgenerator.ai/): AI-powered platform that allows you to create high-quality, professional images of your products.
 
 <p align="center"><a href="https://productgenerator.ai/"><img src="https://github.com/user-attachments/assets/ad601b18-c127-4a63-a3e7-1156d48c3a0a" alt="ProductGenerator.AI" width="400"/></a></p>
