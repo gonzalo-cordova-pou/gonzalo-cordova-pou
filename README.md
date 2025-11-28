@@ -66,9 +66,9 @@
 
 ---
 #### Get in touch
-- 📫 How to reach me: gonzalocp6@gmail.com or [LinkedIn](https://www.linkedin.com/in/gonzalo-cordova-pou/)
+- 📫 How to reach me: gonzalo@happyrobot.ai or [X](https://x.com/gonzalo_io) or [LinkedIn](https://www.linkedin.com/in/gonzalo-cordova-pou/)
 - 🔭 I’m currently working as:
-   - Data Scientist at [Glovo](https://engineering.glovoapp.com/)
+   - ML Engineer at [HappyRobot](https://www.happyrobot.ai/)
 - 💬 Ask me about any of my projects or if you want collaborate
  
  
