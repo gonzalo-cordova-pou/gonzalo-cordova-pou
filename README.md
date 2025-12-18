@@ -6,10 +6,12 @@
  <a href="https://www.linkedin.com/in/gonzalo-cordova-pou"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:gonzalocp6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://scholar.google.es/citations?user=6GtgC44AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+ <a href="https://x.com/gonzalo_io"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
 </p>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="Haskell" src="https://img.shields.io/badge/haskell-%23323330.svg?style=for-the-badge&logo=haskell&logoColor=%23F7DF1E" />
     <img alt="R" src="https://img.shields.io/badge/R-%23007ACC.svg?style=for-the-badge&logo=r&logoColor=white" />
