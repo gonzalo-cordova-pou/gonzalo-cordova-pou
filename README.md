@@ -22,23 +22,13 @@
 
 - [MCP Server for Food Delivery 🍔](https://github.com/gonzalo-cordova-pou/food_delivery_mcp): Local Model Context Protocol Server for a Food Delivery Application. Let an AI Agent order for you!
 
-- [ProductGenerator.AI](https://productgenerator.ai/): AI-powered platform that allows you to create high-quality, professional images of your products.
-
-<p align="center"><a href="https://productgenerator.ai/"><img src="https://github.com/user-attachments/assets/ad601b18-c127-4a63-a3e7-1156d48c3a0a" alt="ProductGenerator.AI" width="400"/></a></p>
+- [ProductGenerator.AI](https://productgenerator.ai/): Create high-quality, professional images of your products by fine-tuning image models.
 
 - [Building RAGs and Agents with LangChain and LangGraph 🦜 - Work in Progress](https://github.com/gonzalo-cordova-pou/rag/tree/main) Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases.
 
 - [Distraction Detector :mag_right:](https://github.com/gonzalo-cordova-pou/MLADHD) Identifying potential distractions within VR software. By integrating CNNs, OCR, and NLP, the proposed approach can accurately classify screenshots and extract features, facilitating the identification of distractions and enabling timely intervention.
 
 - [Funx: a Python interpreter :snake:](https://github.com/gonzalo-cordova-pou/interpreter) Python interpreter based on expressions and functions. Both a web interface (Flask) and a command line interface are provided.
-
-- [TextMood: Sentiment classification](https://github.com/gonzalo-cordova-pou/TextMood) Sentiment classification task with deep neural networks using social networks data. :computer:
-
-- [Energy Consumption Forecast 🔋](https://github.com/gonzalo-cordova-pou/EnergyConsumptionForecast): using XGBoost and Time Series analysis to forecast Energy Consumption.
-
-- [Big Data (Predictive Analysis)](https://github.com/gonzalo-cordova-pou/BDA_bigdata_project) Use of PySpark (RDD structure) to create different pipelines that read from PostgreSQL DB and CSV files to create a Decision Tree Classifier.
-
-- [Machine Learning for Drawings :pencil2: Classification](https://github.com/gonzalo-cordova-pou/drawing2label): where I implement CNN, SVM and TSNE to return the word representing a drawing.
 
 
 ### 🛠 &nbsp; Some Tools I Use:
@@ -70,7 +60,8 @@
 #### Get in touch
 - 📫 How to reach me: gonzalo@happyrobot.ai or [X](https://x.com/gonzalo_io) or [LinkedIn](https://www.linkedin.com/in/gonzalo-cordova-pou/)
 - 🔭 I’m currently working as:
-   - ML Engineer at [HappyRobot](https://www.happyrobot.ai/)
+   - ML Engineer at [HappyRobot](https://www.happyrobot.ai/) <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dcb5e935-a469-486c-99b4-45ad7151f749" />
+
 - 💬 Ask me about any of my projects or if you want collaborate
  
  
