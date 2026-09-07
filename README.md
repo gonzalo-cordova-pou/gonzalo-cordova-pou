@@ -20,6 +20,8 @@
 
 #### These are some of my projects. Check them out!
 
+- [Voice AI Benchmarks](https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks): A directory of benchmarks for the components and complete systems used to build voice agents.
+
 - [MCP Server for Food Delivery 🍔](https://github.com/gonzalo-cordova-pou/food_delivery_mcp): Local Model Context Protocol Server for a Food Delivery Application. Let an AI Agent order for you!
 
 - [ProductGenerator.AI](https://productgenerator.ai/): Create high-quality, professional images of your products by fine-tuning image models.
